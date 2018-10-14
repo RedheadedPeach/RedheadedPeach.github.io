@@ -1,0 +1,25 @@
+#header{
+   margin-bottom: 32px;
+    text-align:center;
+}
+#footer{
+     margin-top: 64px;
+    text-align:center;
+    
+}
+h3{font-size: 20px;
+    font-weight:400;
+    margin-bottom: 0x;
+}
+h2{
+    font-size: 32px;
+    shape-margin: 32px;
+    font-weight:400;
+    margin-bottom: 8px;
+    
+}
+h1{font-size: 36px;
+    font-weight:400;
+    margin-bottom:0px;
+}
+.p{ margin-bottom: 12px;}
